@@ -1,16 +1,53 @@
-## Hi there 👋
+<!-- Anime Banner GIF: L zoning in (Death Note) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="L from Death Note zoning in" width="80%" />
+</p>
 
-<!--
-**ItzmeJan/itzmejan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm JanMakur! 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Student • Tech Enthusiast • Anime Lover • Always Zoning In 🚀</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🧑‍💻 <b>Student</b> passionate about all things tech and always learning!
+- 💻 <b>Tech Stack:</b> JavaScript, TypeScript, Rust, Backend magic, Web Development, Reverse Engineering
+- 🖥️ <b>Homelabbing</b> is my playground—tinkering, optimizing, breaking and rebuilding for fun!
+- 🌟 <b>Anime is life!</b> Always down for a new series or a rewatch of an old favorite.
+- 🌀 <b>Love zoning in</b>—deep work, code sessions, or anime marathons. Headphones on, world off.
+
+---
+
+### 🤩 Fun Facts
+
+- Reverse engineering is my jam—I break things (on purpose), then fix them.
+- Can’t say no to a cool CLI tool or a new anime season.
+- Homelabbing is my happy place—networks, servers, automation all day.
+- My code is as expressive as my favorite anime OPs: sometimes wild, always memorable!
+
+---
+
+### 🎯 Currently
+
+- Exploring new tech, leveling up my backend skills, and zoning in on cool projects.
+- Always open to chat about tech, anime, or your favorite homelab setup!
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [itzmejan@icloud.com](mailto:itzmejan@icloud.com)
+
+---
+
+<!-- Footer Anime Coding GIF: Chihaya coding energy -->
+<p align="center">
+  <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" alt="Anime Girl Serious Coding" width="220" />
+</p>
+
+<p align="center">
+  <em>“Keep coding, stay hyped, and may your uptime be as endless as your anime queue!”</em>
+</p>
