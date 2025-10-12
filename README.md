@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="L from Death Note zoning in" width="80%" />
 </p>
 
-<h1 align="center">Hi there, I'm JanMakur! 👋</h1>
+<h1 align="center">Hi there, you can call me Jan! 👋</h1>
 
 <p align="center">
   <b>Student • Tech Enthusiast • Anime Lover • Always Zoning In 🚀</b>
