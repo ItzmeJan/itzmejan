@@ -1,6 +1,6 @@
 <!-- Anime Banner GIF: L zoning in (Death Note) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="L from Death Note zoning in" width="80%" />
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="L from Death Note zoning in" width="400" />
 </p>
 
 <h1 align="center">Hi there, you can call me Jan! 👋</h1>
