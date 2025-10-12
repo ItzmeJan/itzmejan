@@ -43,9 +43,9 @@
 
 ---
 
-<!-- Footer Anime Coding GIF: Chihaya coding energy -->
+<!-- Footer Anime Coding GIF: Gojo Satoru (Jujutsu Kaisen) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" alt="Anime Girl Serious Coding" width="220" />
+  <img src="https://giffiles.alphacoders.com/220/220891.gif" alt="Gojo Satoru - Jujutsu Kaisen" width="220" />
 </p>
 
 <p align="center">
