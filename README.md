@@ -11,6 +11,10 @@
 
 ---
 
+<p align="center">
+  <img src="[https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif](https://github-readme-stats.vercel.app/api?username=itzmejan&show_icons=true&theme=tokyonight)" alt="STATS" width="400" />
+</p>
+
 ### 🚀 About Me
 
 - 🧑‍💻 <b>Student</b> passionate about all things tech and always learning!
